@@ -97,5 +97,4 @@ Este proyecto está bajo la licencia **MIT**. ¡Úsalo con libertad! 🎉
 
 ---
 
-📌 **Este README es limpio, profesional y atractivo.**  
-💡 **Si quieres personalizarlo más, dime qué agregar.** 🚀
+
